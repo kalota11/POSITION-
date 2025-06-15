@@ -1,0 +1,38 @@
+#ee{
+    background-color: blueviolet;
+    color: white;
+    text-align: center;
+}
+
+#ff{
+ position: relative;
+  top: 20px;
+  left: 30px;
+  background-color:  blueviolet;
+  padding: 20px;
+  width: 300px;
+  border-radius: 10px;
+}
+
+#dd{
+position: absolute;
+  background-color:  blueviolet;
+  padding: 20px;
+  width: 300px;
+  border-radius: 10px;
+  margin-left: 30%;
+  top: 17%;
+}
+#ss{
+    color: white;
+}
+
+#fixed{
+    position: fixed;
+  background-color:  blueviolet;
+  padding: 20px;
+  width: 300px;
+  border-radius: 10px;
+  margin-left: 60%;
+  top: 17%;
+}
